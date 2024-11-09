@@ -25,7 +25,7 @@ Through these experiences, I have gained a solid foundation in front-end develop
 
   </p>
     </div>
-    {/* project-1 */}
+
     <div className="flex flex-wrap -m-5 -mt-16" >
       <div className="lg:w-1/3 sm:w-1/2 p-4 cursor-pointer">
         <div className="flex relative">
@@ -59,7 +59,7 @@ Through these experiences, I have gained a solid foundation in front-end develop
           </div>
         </div>
       </div>
-    {/* project-2 */}
+    
     <div className="lg:w-1/3 sm:w-1/2 p-4 cursor-pointer">
         <div className="flex relative">
           <Image

@@ -23,7 +23,7 @@ const Navbar = () => {
 
       <span className="ml-3 text-xl  text-pink-400
       I am"> 
-        Naghmana's Portfolio
+        Naghmanas Portfolio
         </span>
     </a>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-pink-400 text-base justify-center">
