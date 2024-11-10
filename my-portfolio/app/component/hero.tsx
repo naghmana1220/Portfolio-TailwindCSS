@@ -3,7 +3,7 @@ import React from "react";
 import Image from "next/image";
 import girl from '../../public/assests/Pictures/girl2.png'
 import Link from "next/link";
-import { TypeAnimation } from 'react-type-animation';
+
 
 
 const Hero = () => {
@@ -14,23 +14,8 @@ const Hero = () => {
       <h1 className="title-font sm:text-4xl  text-3xl mb-1 font-medium  text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
         I am
         <br className="hidden lg:inline-block" />
-      
-        <TypeAnimation 
-            sequence={[
-              'Web Developer',
-              1000,
-              'UI/UX Designer',
-              1000,
-              'Psycologist',
-              1000 
-            ]}
-            wrapper="span"
-          
-            speed={50}
-            
-            repeat={{Infinity}}
-            />
-
+      Web Developer,
+        UI/UX Designer
             </h1>
           
       <div className="w-[200px] h-[2px] bg-gray-400 rounded-xl mt-1"></div>
